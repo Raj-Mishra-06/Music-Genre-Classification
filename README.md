@@ -1,5 +1,5 @@
 # Web-Based-Music-Genre-Classification
-A web based music genre classification software that enables user to predict genre of their audio file along with a generated result that consists of bar graph to show confidence of each genre in that audio file with mel-spectrogram.
+A web based music genre classification software that enables user to predict genre of their audio file along with a generated result that consists of bar graph to show confidence of each genre in that audio file with mel-spectrogram to visualize the audio file.
 
 music_classification.py file is used to train the model, i have selected 3 clasifcation models K-nearest neighbour, support vector machine, & Mel frequency cepstral coefficient(MFCC) to tarin the clasiifier. from these 3 Mfcc was more accurate with an acccuracy of 70%.
 
