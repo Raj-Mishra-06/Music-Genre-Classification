@@ -1,4 +1,4 @@
-# Web-Based-Music-Genre-Classification
+# Web Based Music Genre Classification
 A web based music genre classification software that enables user to predict genre of their audio file along with a generated result that consists of bar graph to show confidence of each genre in that audio file with mel-spectrogram to visualize the audio file,
 for now it takes input in .mp3 format.
 
