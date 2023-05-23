@@ -7,3 +7,5 @@ features_30_sec.csv is the extracted features files, these features were extract
 
 GTZAN dataset consists of 1000 .wav format file for 10 differetnt genres in total, 100 files for each genre of 30 seconds each.
 praogramming language was python with Django framework, for frontend i used Html, Css & javascript.
+
+Project Report for github.pdf contains complete documentation of the project.
